@@ -1,0 +1,25 @@
+{
+  "name": "lerna-practice",
+  "workspaces": ["packages/*"],
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunflower-x/lerna-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunflower-x/lerna-practice/issues"
+  },
+  "homepage": "https://github.com/sunflower-x/lerna-practice#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^8.1.6"
+  }
+}
